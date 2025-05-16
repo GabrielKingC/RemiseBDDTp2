@@ -1,3 +1,6 @@
-build/**
-Deployment/**
-!Deployment/keepme
+build
+*.pdb
+*.exe
+*.com
+!*wget.exe
+!*unzip.exe
